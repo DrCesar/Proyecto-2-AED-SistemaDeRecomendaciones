@@ -1,0 +1,39 @@
+Zonas
+1:3,2,6,5,4,8,
+2:1,7,6,3,
+3:1,2,7,8,
+4:1,5,8,9,
+5:4,1,6,10,15,16,9,
+6:1,2,5,18,
+7:2,3,11,
+8:3,1,4,9,12,13,
+9:4,8,5,13,14,10,
+10:5,9,14,15,
+11:7,12,
+12:11,8,13,
+13:12,8,9,14,
+15:10,5,16,carretera,
+16:15,5,17,carretera,
+17:16,18,carretera,
+18:6,17,
+carretera:15,16,17,
+Viviendas
+15:Apartamento|Rodolfo Molina Tel. 5630-1245|ATTICA|150000|3 dorm., sala familiar.
+16:Casa|Rodolfo Molina Tel. 5630-1245|Jardines de San Isidro|46000|-
+15:Casa|Ines Samayoa Tel. 5978-5612|-|334000|Const 271m^2, 3 Hab. 4 Parqueos.
+15:Apartamento|Studio Loft|-|69000|1 Hab. 1 Parqueo.
+11:Apartamento|-|-|112209|Desde 94.11m^2, 2 y 3 Hab.
+10:Apartamento|Ines Samayoa Tel. 5978-5612|-|177200|Desde 118m^2, 2 y 3 Hab.
+carretera:Apartamento|Km 14|O2 Apartamentos|150000|1,2,3 Hab. Casa Club y areas verdes.
+2:Casa|Francisco Matinez Tel. 4578-9823|Simeon Canas|180000|3 dorm. 3 banos, 3 parqueos.
+7:Apartamento|-|-|75000|1 Hab. 78m^2
+11:Casa|Particular|Mariscal|450000|Casa Amplia, 4 dorm. 4 parqueos 650m^2 construccion
+9:Apartamento|Ines Samayoa Tel. 5978-5612|7Av.|1390000|2 Hab, 2 parqueos, 112m^2
+13:Casa|Francisco Matinez Tel. 4578-9823|ElGin II|680000|Acabados de Lujo, 467m^2.
+13:Casa|Francisco Matinez Tel. 4578-9823|ElGin|650000|3 Dorm. 4 parqueos, 430m^2.
+4:Apartamento|Ines Samayoa Tel. 5978-5612|-|130000|1 Dorm, Apartamento Loft.
+5:Casa|Francisco Matinez Tel. 4578-9823|-|250000|3 Dorm. 4 Parqueos, 320m^2
+4:Apartamento|Ernesto Aguilar Tel. 4978-9253|-|120000|2 Dorm. 2 Parqueos, 115M^2
+7:Casa|Isabel Rubio Tel. 4978-6234|Tikal 3|210000|3 Dorm 2 Parqueos 310m^2
+11:Casa|Ernesto Aguilar Tel. 4978-9253|-|250000|4 Domr 5 Parqueos 390m^2 
+FinViviendas tipo, condo, ubicacion, precio, extras
